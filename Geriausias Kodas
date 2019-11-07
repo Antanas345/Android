@@ -1,4 +1,6 @@
-	public static void main(String[] args) {
+public class Sukurtosklasespavadinimas
+{
+  public static void main(String[] args) {
 		
 		char a=77, b=97, c=110, d=112, e=106, f=101, g=98, h=116, i=33;
 		System.out.println(a+""+b+""+c+" "+d+""+b+""+e+""+f+""+g+""+b+""+h+""+i);
@@ -6,3 +8,5 @@
 	}
 
 }
+
+//Copy paste to site: https://www.compilejava.net/
